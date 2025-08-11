@@ -1,0 +1,10 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-third-level',
+  templateUrl: './third-level.component.html',
+  styleUrls: ['./third-level.component.css']
+})
+export class ThirdLevelComponent {
+
+}
